@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="051e951d-e405-49c8-bab4-40c03cc026b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task 1/BasicNetworkSniffer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 1/Basic Network Sniffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/BasicNetworkSniffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/BasicNetworkSniffer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,9 @@
     &quot;accountId&quot;: &quot;900d6571-7c15-47d5-a728-f4a91248fce7&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -56,6 +59,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,7 +85,7 @@
       <workItem from="1730852941913" duration="28000" />
       <workItem from="1730852983484" duration="539000" />
       <workItem from="1730853914362" duration="131000" />
-      <workItem from="1730854293966" duration="660000" />
+      <workItem from="1730854293966" duration="3719000" />
     </task>
     <servers />
   </component>
@@ -90,6 +94,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeAlpha_Tasks$Basic_Network_Sniffer.coverage" NAME="Basic Network Sniffer Coverage Results" MODIFIED="1730854294469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task 1" />
-    <SUITE FILE_PATH="coverage/CodeAlpha_Tasks$BasicNetworkSniffer.coverage" NAME="BasicNetworkSniffer Coverage Results" MODIFIED="1730854896226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task 1" />
+    <SUITE FILE_PATH="coverage/CodeAlpha_Tasks$BasicNetworkSniffer.coverage" NAME="BasicNetworkSniffer Coverage Results" MODIFIED="1730857654043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task 1" />
   </component>
 </project>
